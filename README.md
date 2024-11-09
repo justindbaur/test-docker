@@ -4,6 +4,12 @@
 dotnet publish /t:PublishContainer
 ```
 
+## Create Location For keys
+
+```bash
+mkdir data
+```
+
 ## Run Image
 
 ```bash
